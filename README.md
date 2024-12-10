@@ -19,3 +19,5 @@ In a completely connected graph all vertices are connected to every other vertic
 with the bijection function f we can say that for any pair of ${u, v} \in E_1$ because it is a completely connected graph and the vertices $f(u), f(v) \in V_2$ and $(f(u), f(v)) \in E_2$ because $G_2$ is also completely connected graph. This satisafies the condition above where $(u,v) \in E_1 <=> (f(u),f(v)) \in E_2$. Therefore with this proof we can say that $G_1$ and $G_2$ are isomorphic.
 
 References: I used my previous repository for correctness check, however it is not done properly with a proof to prove the mapping exits.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice
